@@ -1,5 +1,6 @@
-# 🌿 Green Tech Pioneer Team - MANIT Bhopal
+![logo](https://github.com/user-attachments/assets/a571c32f-c225-4ede-bdf1-eff37a8d8207)
 
+# 🌿 Green Tech Pioneer Team - MANIT Bhopal
 **Welcome to the official webpage repository of the Green Tech Pioneer Team of MANIT Bhopal!**
 
 ---
