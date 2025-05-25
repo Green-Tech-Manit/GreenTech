@@ -1,4 +1,4 @@
-**Webpage ofGreen Tech Pioneer Team of MANIT Bhopal**.
+**Webpage of Green Tech Pioneer Team of MANIT Bhopal**.
 
 ## 🌿 About Us
 
